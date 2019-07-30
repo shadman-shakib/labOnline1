@@ -1,0 +1,3 @@
+This is the first line of MyFile.txt
+This is the second line of MyFile.txt
+<End of File>
